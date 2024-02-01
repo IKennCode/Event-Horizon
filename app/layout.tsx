@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: 'Event Oasis',
   description: 'Event Oasis is a platform for event management.',
   icons: {
-    icon: '/assets/images/logo.png'
+    icon: '/assets/images/logo.svg'
   }
 }
 
